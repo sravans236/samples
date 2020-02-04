@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Documents/Code_Hub/paymentIntegrity/Kafdrop/src/main/resources/templates/broker-detail.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code_Hub/paymentIntegrity/kafka-data-archive-kube/entrypoint.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code_Hub/paymentIntegrity/kafka-data-archive-kube/kube-deployer-without-helm.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code_Hub/paymentIntegrity/kafka-data-archive-kube/src/main/java/com/optum/ude/edi/processor/EdiReaderImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code_Hub/paymentIntegrity/kafka-data-archive-kube/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code_Hub/paymentIntegrity/kafka-data-archive-kube/src/main/resources/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code_Hub/paymentIntegrity/kafka-data-archive-kube/src/main/resources/log-back.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kbhaskar/spring-oracle-connect/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kbhaskar/spring-oracle-connect/src/main/java/com/verizon/dataconnect/springoracleconnect/DataController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kbhaskar/spring-oracle-connect/src/main/java/com/verizon/dataconnect/springoracleconnect/Driver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kbhaskar/spring-oracle-connect/src/main/java/com/verizon/dataconnect/springoracleconnect/SpringOracleConnectApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kbhaskar/spring-oracle-connect/src/main/resources/dataConnect.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kbhaskar/spring-oracle-connect/src/main/resources/static/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kbhaskar/spring-oracle-connect/src/main/resources/templates/search.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/camus/KafkaToHDFSConsumer/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp/camus/KafkaToHDFSConsumer/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/verizon/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/verizon/Driver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

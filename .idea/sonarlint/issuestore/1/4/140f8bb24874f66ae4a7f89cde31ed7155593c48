@@ -1,0 +1,32 @@
+
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ùÖ©¤üÿÿÿÿ
+’squid:S4165"oRemove this useless assignment; "callableStatement" already holds the assigned value along all execution paths.(“¼¹Òüÿÿÿÿ8ãØ‚×ü-
+isquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(¿ù£¿8“¼œÙü-
+gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(´ê¢ßÿÿÿÿÿ
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ôÊší
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Ìïê«8ò‹šÕü-
+„squid:S1488"hImmediately return this expression instead of assigning it to the temporary variable "oracleConnection".(ê·ø¨úÿÿÿÿ
+Jsquid:S1481^",Remove this unused "numRows" local variable.(„ÙÚß8˜Ã¢Õü-
+bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(™ïÑœ
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(úÔş8ü·ÛØü-
+~squid:S4165"gRemove this useless assignment; "resultSet" already holds the assigned value along all execution paths.(ÍéìÈ
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(¨ÓŒÇùÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(º¢¨æ
+~squid:S4165"gRemove this useless assignment; "statement" already holds the assigned value along all execution paths.(Š²éˆ
+T
+squid:S106J"9Replace this use of System.out or System.err by a logger.(­òª‘şÿÿÿÿ
+bsquid:CallToDeprecatedMethod""3Remove this use of "newInstance"; it is deprecated.(ƒ±æ‚8åçÕü-
+isquid:S00117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºØæ
+bsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(à½Œ
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(¶­ÊÌ8êõœÙü-
+Ksquid:S4925""-Remove this "Class.forName()", it is useless.(ƒ±æ‚8åçÕü-
+…squid:S4165"nRemove this useless assignment; "oracleConnection" already holds the assigned value along all execution paths.(Å”Âò
+{squid:S1149b"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+†squid:S4165"oRemove this useless assignment; "preparedStatement" already holds the assigned value along all execution paths.(áŞÁİ
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(­èúìùÿÿÿÿ
